@@ -1,13 +1,1 @@
-- 👋 Hi, I’m Maccie or Mller
-- 👀 I’m interested in Coding, Making Changes, and Tech
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on further with anyone
-- 📫 How to reach me? through Discord! username:mllerdeveloper_•
-- 😄 Pronouns: he/they 
-- ⚡ Fun fact: did you knowww my favorite season is 🍂Autumn!
-- yes i am huge nature lover. and cattsss tooo ＼(^-^)／
-
-<!---
-MacciE14781/MacciE14781 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey im Müller. i am an intermediate Java, python and C+ coder. currently i am still learning Java but ill be upto it soon. i am currently Working on some few projects but due to some family settelements and some issues. i have to stop my project for awhile until the issue is resolved. But in the meanwhile i am currently focused on and will continue once the issue is gone and ill have my own time back. i hope whoever reads this has wonderful and beaituful time! stay Sweet! byeeeeee! 🍁
